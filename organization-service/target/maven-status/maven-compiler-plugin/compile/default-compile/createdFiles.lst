@@ -1,0 +1,8 @@
+com\upendra\organizationserver\repository\OrganizationRepository.class
+com\upendra\organizationserver\service\OrganizationService.class
+com\upendra\organizationserver\controller\OrganizationController.class
+com\upendra\organizationserver\mapper\OrganizationMapper.class
+com\upendra\organizationserver\service\impl\OrganizationServiceImpl.class
+com\upendra\organizationserver\entity\Organization.class
+com\upendra\organizationserver\OrganizationServiceApplication.class
+com\upendra\organizationserver\dto\OrganizationDto.class
